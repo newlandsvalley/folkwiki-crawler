@@ -10,16 +10,21 @@ import Effect (Effect)
 import Effect.Aff (Aff, launchAff)
 import Effect.Class (liftEffect)
 import Effect.Console (log)
-import FolkWikiPage (retrieveAbcFromPage)
+import FolkWikiPage (retrieveAbcFromPage, retrieveTuneCount)
 import Node.Path (FilePath)
 import Node.Stream.Aff (end, fromStringUTF8, write)
 import Node.FS.Stream (createWriteStream)
 import Node.Stream (Writable)
 
-
-
 main :: Effect Unit
 main = void $ launchAff $ do
+  eCount <- retrieveTuneCount
+  case eCount of  
+    Left _err -> do
+      liftEffect $ log "tune count not found"
+    Right count -> do
+      liftEffect $ log $ "tune count: " <> (show count)
+      
   let
     outfilename :: FilePath 
     outfilename = "data/folkwiki.txt"
