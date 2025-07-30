@@ -1,0 +1,163 @@
+X:6
+T:Polska efter Byss-Kalle (nr 6)
+R:Polska
+B:[[Notböcker/57 låtar efter Byss-Kalle]] utgivet av Uplands Spelmansförbund (där det även finns en andrastämma)
+Z:Nils L, 2007-12-14
+O:efter Byss-Kalle, Uppland
+M:3/4
+L:1/16
+K:D
+A4 | !tenuto!d4 {de}!tenuto!d4 (cA)ce  | d2d2 B4 (AB)cd | {\c2} !tenuto![A4e4] !tenuto![A4e4] (dc)df | e2e2 {cB}c4 A4 | 
+     A2f2 f4 (dc)de | d2d2 c4 B4 | B2g2 g2e2 e2d2 | (cd)ec A2A2 (BA)Bc | c2d2 d4 :| 
+A4 | d2f2 f2d2 d2ef | (gf)ef g2e2 (fe)fg | a2f2 f2d2 d2ef | g2e2 e2c2 c2A2 | 
+     d2f2 f2d2 d2ef | (gf)ef g2e2 (fe)fg | a2f2 d2b2 g2e2 | (dc)Bc [d4D4] :| 
+X:5
+T:Lärkan - Polska efter Byss-Kalle (nr 5)
+R:Polska
+B:57 låtar efter Byss-Kalle
+S:efter Byss-Kalle
+Z:2007-12-14, hämtad från häftet \"57 låter efter Byss-Kalle\" utgivet av Uplands Spelmansförbund (där det även finns en andrastämma)
+O:efter Byss-Kalle, Uppland
+Z:Nils L
+M:3/4
+L:1/16
+K:Gm
+{ABAG} A4|(Bd)cB (AB)cA B2A2|(=ed)cB (AB)cA B2{cB}A2|(Bd)cB (Ac)BA G2a=b|
+   (c'=b)ag (^fg)=bg d2d2|(_Bd)cB (AB)cA B2{cB}A2|(=ed)cB (AB)cA B2A2|(Bd)cB (Ac)BA G2ac'|
+(=ba)g^f {/f}g4 ::[K:G] b4|(d'b)gb (d'b)gb d'2d'2|(d'a)fa (c'a)fa {/a}d'4|
+   (d'b)gb (d'b)gb d'2d'2|(d'a)fa c'afa {gagf}g4|(g^f)gb e2eg f2fa|d2de c2cg _B2{cB}A2|
+   (_Bd)cB (AB)cA B2{cB}A2|(ed)c_B (AB)cA B2A2|(_Bd)cB (Ac)BA G2ac'|=bagf g8 :|
+X:57
+M:3/4
+L:1/8
+T:Klockstapelsvalsen efter Byss-Kalle (nr 57)
+S:efter Byss-Kalle
+Z:Nils L, 2007-12-14
+B:57 låtar efter Byss-Kalle nr 57
+R:Vals
+D:Skivan \"Byss-Calle\" med [[Grupper/Nyckelharporkestern]] utgiven på Drone, spår 12
+O:efter Byss-Kalle, Uppland
+K:G
+D2 | (G2 B2) d2 | (3dBd (gd) BG | A2 AB c2   | (3cBc (ed) BA | 
+     (G2 B2) d2 | (3dBd (gd) BG | A2 (Ac) BA | G4 ::
+D2 | (G2 B2) d2 | (gf)  ga   b2 | (ag) fg a2 | (gf) ef g2 | (dc) BA G2 |
+     (G2 B2) d2 | (gf)  ga   b2 | (ag) (fa) d'f | g4 :: (dc) | B2 (Bd) g2 | (BG) Bd g2 |
+     A2 (Ac) ec | (AF) (Ac) ed  | B2   Bd   g2  | (BG) Bd g2 | A2  Ac  BA | G4        :|
+X:24
+M:3/4
+L:1/16
+T:Isbrytaren, polska efter Byss-Kalle (nr 24)
+R:Slängpolska
+O:Uppland
+S:efter Byss-Kalle
+Z:Nils L, 2007-12-14 
+B:57 låtar efter Byss-Kalle nr 24
+N:[[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1444796|FMK - katalog M155 bild 32]] i 2/4-takt ur [[Notböcker/Fredrik Sallings nothäfte]] från [[Platser/Dalarna]] uppvisar vissa likheter, men det kanske är en slump.
+N: Jämför [[http://www.samlingarna.sormlandsspel.se/wp-content/uploads/2013/08/56_sormlandska_latar1.pdf|56 Sörmländska låtar]] (pdf) nr 18 efter [[Personer/A G Rosenberg]], [[Platser/Flodafors]].
+O:efter Byss-Kalle, Uppland
+K:G
+DG |               G2dB G2bg  d2gd  | !pralltriller!B2dB G2Bd (cB)AG | (FG)AB !pralltriller!c2ed (cB)AG | (FG)BA (GF)GE D4 | 
+     !pralltriller!G2dB G2bg  d2gd  | !pralltriller!B2dB G2Bd (cB)AG | (FG)AB               c2ed (cB)AG | (FG)AF G6       :| 
+dc | B2dB g4    B2d2  | c4   edcB  A2c2  | B2d2   e4   A2B2   | c4 (dc)BA  B2dc  |
+     B2dB g4    B2d2  | c4   edcB  A2c2  | B2d2   g2b2 (ab)ag | (fg)af g6       :|
+|: g2 | (fg)af (ef)ge (gf)ed | (^cd)ec d2AF  D2&gt;G2  | (GB)dg (ge)ce (ed)Bd | 
+     (dc)Ae (dc)Ad g2&gt;g2  | (ge)ce (ed)Bd (dc)Ac | (BA)GF G4 G2dc       |
+     (BG)Bd (BG)Bd (ed)cB | (AF)Ac (AF)Ac (dc)BA | (GB)dg (ge)ce (ed)Bd |
+     (dc)Ae (dc)Ac g2&gt;g2  | (ge)ce (ed)Bd (dc)Ac | (BA)GF G6           :|
+X:16
+T:Djursdalapolskan
+T:Melankoliska polonessen
+R:Polska
+B:50 Småländska låtar
+B:Jämför [[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1432004|FMK - katalog Ma6 bild 126]] efter [[Personer/Petter Dufva]]
+O:Djursdala, Småland
+N:Ur gamla handskrifter från Djursdala
+N:nr. 16 i '50 Småländska låtar'
+N:Låten förekommer i många spelmansböcker, ofta som \"Melankoliska polonessen\"
+M:3/4
+L:1/8
+K:Dm
+DD/2F/2 A^c de |fe/2f/2 g/2f/2e/2d/2 ^cc| d/2^c/2d/2e/2 f/2g/2f/2e/2 df|e/2f/2e/2d/2 c/2d/2c/2B/2 A/2G/2F/2E/2|
+DD/2F/2 Ad fa| ag/a/ bb/2a/2 ge|fa/2f/2 eg/2e/2 d/2^c/2d/2f/2|a/2g/2e/2^c/2 cd d2:|
+|:ff/2e/2 ff/2e/2 fg|ee/2^c/2 ee/2c/2 ef| dd/2^c/2 dd/2c/2 df|e/2f/2e/2d/2 c/2d/2c/2B/2 A/2G/2F/2E/2|
+DD/2F/2 Ad fa|ag/2a/2 bb/2a/2 ge| fa/2f/2 eg/2e/2 d/2^c/2d/2f/2|a/2g/2e/2^c/2 cd d2:|
+X: 84
+T: Polska ur Sven Donats notbok (Ma5-84)
+O: Målerås, Småland
+B: Sven Donats notbok, nr 84
+B: Jämför [[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1431726|FMK - katalog Ma5 bild 86]]
+S: Sven Donat
+Z: till abc av Jon Magnusson 080421
+R: Slängpolska
+M: 3/4
+L: 1/8
+K: D
+Q:98
+\"D\"dd/2c/2 de/2f/2 \"A\"A2|\"G\"BB/2A/2 Bc/2d/2 \"D\"F2|\"Em\"GF E2 \"G\"g2 |\"D\"f/2a/2f/2d/2 \"A\"e3/2d/2 cB/2A/2|
+\"D\"dd/2c/2 de/2f/2 \"A\"A2|\"G\"BB/2A/2 Bc/2d/2 \"D\"F2|\"Em\"GF E2 \"G\"g2 |\"A\"f/2g/2e/2c/2 \"D\"d4:||:
+\"D\"fd df f/2a/2f/2d/2   |\"A\"ec ce e/2a/2e/2c/2   |\"D\"d3/2c/2 \"E\"Ba^ga | \"E\"ba/2^g/2 \"A\"ae/2c/2 A2|
+\"D\"dA AB/2=c/2 \"G\"B2    |\"E\"eB B^c/2d/2 \"A\"c2 |\"D\"af/2d/2 \"G\"b=g/2e/2 \"D\"af/2d/2|\"A\"g/2e/2c/2e/2 \"D\"d2 D2:|
+
+X:1
+T:Bakmes'n
+C:Johansson
+R:Polska
+Z:Anton Teljebäck 2007-12-01
+O:Lima, Dalarna
+M:3/4
+L:1/8
+K:D
+(.D&gt;.F) (.A&gt;.B) A&gt;G | (.F&gt;.A) (3BGB A2 | (.D&gt;.F) (.A&gt;.B) A&gt;G | (3FDF (3ECE D2 |
+(.D&gt;.F) (.A&gt;.B) A&gt;G | (.F&gt;.A) (3BGB (.A&gt;.c) | d&gt;e (3fdf (.e&gt;.c) | d2 d4 :|
+A/ | c&gt;d e2 e2 | e&gt;f g2 g2 | (3efg (g&lt;f) e&gt;d | (d&lt;c) e4 | A&gt;c e2 e2 | e&gt;f g2 g2 | (3efg (g&lt;f) e&gt;d | (d&lt;c) d4|
+ A&gt;c e2 e2 | e&gt;f g2 g2 | (3efg (g&lt;f) e&gt;d | (d&lt;c) e4 | A&gt;c e2 e2 | e&gt;f g2 g2 | (3efg (g&lt;f) e&gt;d | (d&lt;c) d4|
+X:1
+T:Barockpolskan
+R:Polska
+B:På förstukvisten
+Z:2007-09-05
+S:Lasse i Svarven
+O:Östergötland
+D: [[Grupper/Sågskära]] - Änglarnas språk, Pelle Björnlert &amp; Johan Hedin - Musikanter, polskor och andanter
+B:Jämför [[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1435032|FMK - katalog MMD67 bild 54]] nr 150 ur [[Notböcker/Johan Erik Carlssons notbok]]
+B:Jämför [[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1431633|FMK - katalog Ma4 bild 34]] nr 149 ur [[Notböcker/Kumlins notsamling]]
+B:Jämför [[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1438729|FMK - katalog Upprop15 bild 7]]
+B:Jämför [[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1431986|FMK - katalog Ma6 bild 108]] efter [[Personer/Petter Dufva]]
+N:På [[https://katalog.visarkiv.se/lib/views/fmk/ShowRecord.aspx?id=1434988|smus.se]] står om låten att den \"är komponerad av [[Personer/Eduard du Puy]], operasångaren och kapellmästaren i hovkapellet under de första decennierna av 1800-talet\".
+N:Se även [[Musik/2574|+]]
+M:3/4
+L:1/16
+K:Dm
+abag fgfe defd|efed cdc=B ABcA|d2d^c d2e2 f2g2 | agbg a4A4|
+abag fgfe defd|efed cdc=B ABcA|d2d^c defe fgag|fed^c d4D4::
+f2FE F2fe fag^f|g2c=B c2C=B,C4|g2c=B c2g^f g_bag| a2fe f2FE F4|
+abag fgfe defd|efed cdc=B ABcA|d2d^c defe fgag|fed^c c2d2 D4:|
+X:1
+T:Bingsjö Långdans
+R:Långdans
+Z:Anton Teljebäck
+O:Bingsjö, Dalarna
+M:3/4
+L:1/8
+K:Am
+e2 | f3g ag | f3a/f/ e^c | de fd e^c | A4 G2-| G2 =c2 d2 | eg f2 e^c | de fd e^c | A4 A2 | A4 e2 |
+     f3g ag | f3a/f/ e^c | de fd e^c | A4 e2 | f2 fd ed | =c2 cA B^G | A4 A2 | A4 :|
+|:A2 | A2 d2 d2 | de dB G2- | G2 cB cd | e2 d2 ^cB/c/ | d3f ag | f3 a/f/ e^c | d3e fd | e4 A2 |
+     A2 d2 d2 | de dB G2- | G2 cB cd | e2 d2 ^cB/c/ | d3f ag | f3 a/f/ e^c | d3e fd |
+     ef ed =cB| c2 B2 A^G | B2 A2 A2 | A4 :|
+X:1
+T:Brudlåt efter Troskari Mats
+R:marsch
+Z:Anton Teljebäck 2007-12-11
+O:Västrafors, Dalarna
+S:Efter Troskari Mats
+N:Känd genom: Kalle Almlöf
+M:2/4
+L:1/8
+K:A
+ef/e/ cd | ec/e/  ag/f/ | ef/e/ cd | e3/e/4e/4  e2 | ff/d/ Bc | d3/e/ d/c/B/A/ | e3/e/ AB | c2 c2 |
+ef/e/ cd | ec/e/  ag/f/ | ef/e/ cd | e3/e/4e/4  e2 | ff/d/ Bc | de g&gt;f | ee/e/ fg |1 a4 :|2 a2&gt; =g2|
+f&gt;=g f/e/ d | A3 A/d/ | ff A/B/c/d/ | e3 e/f/ | =gg/g/ ge | cc/c/ ce | a&gt;b  a/=g/f/e/ | d3 A/d/ |
+f&gt;=g f/e/ d | A3 A/d/ | ff A/B/c/d/ | e3 e/f/ | =gg/g/ ge | cc/c/ ce | a&gt;b  a/=g/f/e/ | dz ez|
+ce/e/ ee/f/ | ed d2 | df df |fe e2 | a&gt;b a/g/f/e/ | g&gt;a g/f/e/d/ | f2 f/e/f/a/ | ee/c/ AA/c/|
+e&gt;c ee/f/ | ed/c/ Bc | d&gt;c dd/A/ | ce ab/a/ | ga/g/ fg/f/ |ee/f/ e/d/c/B/ |A4 |]

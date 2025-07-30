@@ -1,0 +1,22 @@
+{
+  "name": "folkwiki-crawler",
+  "version": "1.0.0",
+  "description": "a web crawler for FolkWiki",
+  "license": "ISC",
+  "author": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "spago build",
+    "run": "spago run"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.4",
+    "xhr2": "^0.2.1"
+  },
+  "devDependencies": {
+    "purescript": "^0.15.15",
+    "spago": "^0.93.42"
+  }
+}
