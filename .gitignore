@@ -1,7 +1,6 @@
 
 output-format/
 node_modules/
-.pulp-cache/
 output/
 output-es/
 generated-docs/
@@ -10,3 +9,4 @@ generated-docs/
 .purs*
 .psa*
 .spago
+.spec-results

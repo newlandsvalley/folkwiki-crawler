@@ -1,6 +1,7 @@
 package:
   name: folkwiki-crawler
   dependencies:
+    - argonaut
     - affjax
     - affjax-node
     - console
@@ -9,9 +10,15 @@ package:
     - node-fs
     - node-streams
     - prelude
+    - string-parsers
   test:
     main: Test.Main
-    dependencies: []
+    dependencies: 
+      - aff
+      - effect
+      - formatters
+      - spec
+      - spec-node
 workspace:
   packageSet:
     registry: 66.1.0

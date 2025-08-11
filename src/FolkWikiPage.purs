@@ -98,10 +98,11 @@ retrieveTuneCount = do
           pure $ Left $ error "no tune count found"
 
 
--- | Escape any embedded quotes
+-- | Escape any embedded quotes in the raw text received from folkwiki
 fixEmbeddedQuotes :: String -> String
 fixEmbeddedQuotes = 
   replaceAll (Pattern "\"") (Replacement  "\\\"")
+  
 
 
 
