@@ -43,7 +43,8 @@ main = void $ launchAff $ do
 
 writeAbc :: Int -> Writable () -> Aff Unit 
 writeAbc n outfile = do
-  eAbc <- retrieveAbcFromPage n
+  -- when writing bare ABC we escape double quotes
+  eAbc <- retrieveAbcFromPage n true
   case eAbc of  
     Left e -> do
       liftEffect $ log $ message e
@@ -53,7 +54,8 @@ writeAbc n outfile = do
 
 writeJson :: Int -> Writable () -> Aff Unit 
 writeJson n outfile = do
-  eAbc <- retrieveAbcFromPage n
+  -- when writing JSON we do not escape double quotes
+  eAbc <- retrieveAbcFromPage n false
   case eAbc of  
     Left e -> do
       liftEffect $ log $ message e

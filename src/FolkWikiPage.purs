@@ -36,8 +36,8 @@ getEditPage n = do
   pure result
 
 -- | Extract the ABC from the first tune found on the page.  This is sandwiched between (:music:) and (:musicend:) delimiters
-retrieveAbcFromPage :: Int -> Aff (Either Error String)
-retrieveAbcFromPage n = do 
+retrieveAbcFromPage :: Int -> Boolean -> Aff (Either Error String)
+retrieveAbcFromPage n doFixQuotes = do 
   eResult <- getEditPage n 
   case eResult of  
     Left e -> pure $ Left e 
@@ -51,7 +51,10 @@ retrieveAbcFromPage n = do
           let 
             { after, before} = splitAt end text
             result = splitAt (start + length "(:music:)\n") before
-          pure $ Right $ fixEmbeddedQuotes $ result.after
+          if doFixQuotes then
+            pure $ Right $ fixEmbeddedQuotes result.after
+          else
+            pure $ Right result.after
         _, _ -> 
           pure $ Left $ error "no ABC delimiters found"
 
